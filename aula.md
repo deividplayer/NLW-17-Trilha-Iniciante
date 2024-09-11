@@ -7,7 +7,7 @@ Como um lego, você irá utilizar peças para  criar algoritimos, ou seja, para 
 
 ## Peças de uma linguagem
 
-- Comentários
+- [x] Comentários
 - Declaração de variáveis (const, let)
 - Operadores (atribuição, concatenação, matemáticos, lógicos)
 - Tipos de dados (string, number, boolean)
@@ -22,8 +22,22 @@ Coletar os dados
 Problema os dados (manipular, alterar...)
 Apresentar os dados
 
+## Escopos e variáveis:
 
-<!-- Aula 01 | NLW Pocket | 25:30 -->
+Variáveis globais e locais
+Constantes
+
+## Tipos de dados:
+
+Strings (textos): "" '' ``
+Number (números): 2 1.4
+Function
+
+## Operadores
+
+Operadores de atribuição de valor
+
+
 
 
 
