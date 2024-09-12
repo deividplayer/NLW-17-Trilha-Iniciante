@@ -70,6 +70,9 @@ Apresentar os dados
 - [x] Biblioteca 'inquirer' para criar promts interativos
 
 
+## Programação assíncrona e Promises:
+
+- [x] Uso de funções asassíncronas (async/await)
 
 
 
