@@ -64,6 +64,15 @@ Apresentar os dados
 - [x] switch
 
 
+## Módulos em Node.js:
+
+- [x] Importação de módulos (require, CommonJS)
+- [x] Biblioteca 'inquirer' para criar promts interativos
+
+
+
+
+
 ## Git
 
 **"git init"**: iniciar o repositório local para depois ir para repositório remoto.
